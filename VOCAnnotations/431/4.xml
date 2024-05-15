@@ -1,0 +1,27 @@
+<annotation>
+  <folder>1</folder>
+  <filename>431/4.png</filename>
+  <source>
+    <database>CKdemo</database>
+    <annotation>VOC</annotation>
+    <image>CK</image>
+  </source>
+  <size>
+    <width>640</width>
+    <height>480</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>shine</name>
+    <pose/>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>479</xmin>
+      <ymin>394</ymin>
+      <xmax>485</xmax>
+      <ymax>400</ymax>
+    </bndbox>
+  </object>
+</annotation>
